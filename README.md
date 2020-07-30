@@ -61,6 +61,7 @@ The analysis of the election show that:
     
 ### Election Results Screenshots
 Output to terminal
+
 ![Terminal election results](resources/election_results_terminal.PNG)
 
 
