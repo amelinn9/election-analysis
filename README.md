@@ -61,12 +61,13 @@ The analysis of the election show that:
     
 ### Election Results Screenshots
 Output to terminal
-
 ![Terminal election results](resources/election_results_terminal.PNG)
+
 
 Output to text file
 
 ![Text file election results](resources/election_results_txtfile.PNG)
+
 
 ## Challenge Summary
 ### Election-Audit Summary
