@@ -73,7 +73,6 @@ Output to text file
 ## Challenge Summary
 ### Election-Audit Summary
 This congressional election audit was completed successfully with Python. The audit would usually be done in Excel, but we were able to automate the process using Python. By automating the process, we were able to generate the election audit report quicker and with less errors. With a few modifications, the code written to complete this audit can be used for any election, including senatorial districts and local elections. Some examples of how this script can be modified to be used for other elections are:
-- the data source file
-- the results output file
+- the data source file and its path
+- the results output file and its path
 - the variable names to better describe its contents
-
