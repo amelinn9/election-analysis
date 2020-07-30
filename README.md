@@ -18,17 +18,45 @@ A Colorado Board of Elections employee, Tom, has requested assistance in automat
 The analysis of the election show that:
 - There were "369,711" votes cast in the election.
 - The candidates were:
-  - Charles Casper Stockham
-  - Diana DeGette
-  - Raymon Anthony Doane
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
 - The candidate results were:
-  - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
-  - Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
-  - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
+    - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
+    - Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
+    - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
  - The winner of the election was:
-  - Candidate Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes.
+    - Candidate Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes.
   
- ## Challenge Overview
- 
+## Challenge Overview
+The election commission has requested some additional data to complete the election audit:
+
+1. The voter turnout for each county
+2. The percentage of votes from each county out of the total count
+3. The county with the highest turnout
+
+### Election-Audit Results
+The analysis of the election show that:
+-	There were “369,711” votes cast in this congressional election.
+-	The counties involved in this election were:
+    - Arapahoe
+    - Denver
+    - Jefferson
+-	The county results were:
+    -	“6.7%” of the votes were cast in Arapahoe county with “24,801” number of votes.
+    -	“82.8%” of the votes were cast in Denver county with “306,055” number of votes.
+    -	“10.5%” of the votes were cast in Jefferson county with “38,855” number of votes.
+-	Denver had the largest county turnout.
+-	The candidates were:
+    -	Charles Casper Stockham
+    -	Diana DeGette
+    -	Raymon Anthony Doane
+-	The candidate results were:
+    -	Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
+    -	Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
+    -	Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
+-	The winner of the election was:
+    -	Candidate Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes.
+    
  ## Challenge Summary
  
