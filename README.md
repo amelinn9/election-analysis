@@ -1,13 +1,14 @@
 # Election Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee, Tom, has requested assistance in automating the election audit process using Python. We will need a vote count report to certify this US congressional race. The following are tasks given to complete the election audit of the recent local congressional election.
 
-1. Total number of votes cast = 369,711
-2. A complete list of candidates who received votes = ['Charles Casper Stockham', 'Diana DeGette', 'Raymon Anthony Doane']
-3. Total number of votes each candidate received = {'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606}
-4. Percentage of votes each candidate won = Charles Casper Stockham: received 23.0% of the vote. Diana DeGette: received 73.8% of the vote. Raymon Anthony Doane: received 3.1% of the vote.
-5. The winner of the election based on popular vote = Diana DeGette: 73.8% (272,892)
+1. Total number of votes cast
+2. A complete list of candidates who received votes
+3. Total number of votes each candidate received
+4. Percentage of votes each candidate won
+5. The winner of the election based on popular vote
+
 
 ## Resources
 - Data Source: election_results.csv
